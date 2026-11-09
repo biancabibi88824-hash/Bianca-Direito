@@ -1,0 +1,16 @@
+PORTFÓLIO — BIANCA LAIS SILVA SERRA
+
+COMO ABRIR:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta "bianca_lais_portfolio" no Visual Studio Code.
+3. Abra o arquivo index.html no navegador. Se tiver a extensão Live Server, clique em "Go Live".
+
+ARQUIVOS:
+- index.html: estrutura e conteúdo do site.
+- style.css: cores, fontes, layout e responsividade.
+- script.js: menu interativo para celular.
+- assets/fundo-estrelado.png: imagem enviada, usada no fundo da página inicial.
+
+PERSONALIZAÇÃO:
+Edite os textos diretamente no index.html. Para mudar cores, altere as variáveis no início do style.css.
+O site usa fontes do Google Fonts; sem internet, serão usadas fontes alternativas do sistema.
